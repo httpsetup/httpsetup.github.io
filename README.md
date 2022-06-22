@@ -2,12 +2,12 @@
 
 #  [Get Started Here](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-Visit 123.hp.com/setup to setup and download the hp printer driver software. Get complete instructions and guidance for hp printer setup.
+Visit [123.hp.com/setup](https://httpsetup.github.io) to setup and download the hp printer driver software. Get complete instructions and guidance for hp printer setup.
 
 
 ## HP Printer Wireless Protected setup for windows:
 
-USB Driver setup offers the recent version of prìntẽr drivers and software in click as in 123.hp.com/setup. Also, we offer the instructions for download drivers.
+USB Driver setup offers the recent version of prìntẽr drivers and software in click as in [123.hp.com/setup](https://httpsetup.github.io). Also, we offer the instructions for download drivers.
 
 
 
@@ -15,7 +15,7 @@ USB Driver setup offers the recent version of prìntẽr drivers and software in
 
 1. Add a USB-connected printer to Windows.
 2. Turn on the printer, and then connect the USB cable to the printer and to the computer port.
-3. Go to the HP page: 123.hp.com/setup and from the main section.
+3. Go to the HP page: [123.hp.com/setup](https://httpsetup.github.io) and from the main section.
 4. Visit HP Customer Support Software and Driver Downloads.
 5. Enter your prìntẽr name in the search box you should be able to find your printer name on your printer.
 6. Click "Enter".
