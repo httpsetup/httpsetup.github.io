@@ -1,1 +1,1 @@
-# httpsetup.github.io
+# 123.hp.com/setup
