@@ -1,6 +1,6 @@
 # 123.hp.com/setup
 
-#  [Get Started Here](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+#  [Get Started Here](https://hp.printredir.com)
 
 Visit [123.hp.com/setup](https://httpsetup.github.io) to setup and download the hp printer driver software. Get complete instructions and guidance for hp printer setup.
 
